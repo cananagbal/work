@@ -17,3 +17,9 @@ align-items: center;
 box-shadow: 7px 7px 10px gray;
 
 }
+
+ul{
+    display: flex;
+    list-style: none;
+    
+}
